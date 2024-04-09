@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "yourplaces-e26af"
-  }
+    "default": "yourplaces-9ee38",
+    "staging": "yourplaces-b2b16"
+  },
+  "targets": {},
+  "etags": {}
 }
